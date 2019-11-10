@@ -46,7 +46,7 @@
     "chai": "^4.2.0",
     "conventional-changelog-cli": "^2.0.25",
     "conventional-commits-detector": "^1.0.2",
-    "conventional-recommended-bump": "^6.0.2",
+    "conventional-recommended-bump": "^6.0.4",
     "json-stringify-safe": "^5.0.1",
     "mocha": "^6.2.1",
     "rimraf": "^3.0.0",
