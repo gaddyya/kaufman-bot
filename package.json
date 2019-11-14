@@ -59,7 +59,7 @@
     "apiai": "^4.0.3",
     "bcrypt": "^3.0.6",
     "body-parser": "^1.19.0",
-    "botbuilder": "^4.5.3",
+    "botbuilder": "^4.6.1",
     "charset": "^1.0.1",
     "cheerio": "^1.0.0-rc.2",
     "commander": "^3.0.2",
