@@ -44,7 +44,7 @@
     "@types/request": "^2.48.3",
     "@types/sinon": "^7.5.0",
     "chai": "^4.2.0",
-    "conventional-changelog-cli": "^2.0.25",
+    "conventional-changelog-cli": "^2.0.30",
     "conventional-commits-detector": "^1.0.2",
     "conventional-recommended-bump": "^6.0.2",
     "json-stringify-safe": "^5.0.1",
