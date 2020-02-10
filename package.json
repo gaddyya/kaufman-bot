@@ -32,7 +32,7 @@
     "dist"
   ],
   "devDependencies": {
-    "@types/body-parser": "^1.17.1",
+    "@types/body-parser": "^1.19.0",
     "@types/chai": "^4.2.3",
     "@types/cheerio": "^0.22.13",
     "@types/commander": "^2.12.2",
